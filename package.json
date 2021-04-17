@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/predycat/hexlet-js.git"
+  },
+  "author": "predycat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/predycat/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/predycat/hexlet-js#readme"
+}
